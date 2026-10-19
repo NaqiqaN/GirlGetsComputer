@@ -43,7 +43,7 @@ public class AssetSetter {
 
         gp.obj[7]=new OBJ_Bag(gp);
         gp.obj[7].worldX = 23 * gp.tileSize;
-        gp.obj[7].worldY = 31 * gp.tileSize;
+        gp.obj[7].worldY = 33 * gp.tileSize;
 
 
     }
